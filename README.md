@@ -12,6 +12,7 @@ I'm currently living in the midwest working as a machine operator for a major be
 
 ### Some Experience
 * C
+* Flask
 * SQL
 * HTML
 * CSS
