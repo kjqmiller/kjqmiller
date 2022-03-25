@@ -11,13 +11,14 @@ I'm currently living in the midwest working as a machine operator for a major be
 * Pandas
 
 ### Some Experience
-* C
 * Flask
 * SQL
 * HTML
 * CSS
+* NoSQL (MongoDB Atlas)
 
 ### A Little Experience
+* C
 * JavaScript
 * Apache Nifi
 * Apache Airflow
