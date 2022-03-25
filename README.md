@@ -8,10 +8,10 @@ I'm currently living in the midwest working as a machine operator for a major be
 * AWS Lambda
 * AWS S3
 * AWS EventBridge
-* Pandas
 
 ### Some Experience
 * Flask
+* Pandas
 * SQL
 * HTML
 * CSS
