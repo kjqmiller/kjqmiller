@@ -7,9 +7,9 @@ I'm currently living in the midwest working as a machine operator for a major be
 * Python 3
 * AWS Lambda
 * AWS S3
-* AWS EventBridge
 
 ### Some Experience
+* AWS EventBridge
 * Flask
 * Pandas
 * SQL
